@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pat-ben
-- 👀 I’m interested in nocode/lowcode projects and analytics
-- 🌱 I’m currently learning front-end code (html, css, javascript)
+- 👀 I’m interested in lowcode projects and analytics
+- 🌱 I’m currently learning back-end code (python, OOP)
 - 💞️ I’m looking to collaborate on innovative ETL, data modeling or data viz projects
 - 📫 How to reach me: email or linkedin profile ("pat ben")
 
